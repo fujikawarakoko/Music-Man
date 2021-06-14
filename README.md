@@ -1,5 +1,8 @@
 <h1 align="centre">🎵 BOT MUSIC MAN 🎵</h1>
 
+
+![Fujikawara Userbot Logo](https://telegra.ph/file/44d386e525bf508de7de9.jpg)
+
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
 ### Available on telegram as [@MusikManbot](https://t.me/MusikManbot)
